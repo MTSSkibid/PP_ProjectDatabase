@@ -1,0 +1,5 @@
+N Int;product_id;PRIMARY KEY;String;product_name;NOT NULL;UNIQUE;Float;price;NOT NULL;Int;stock_quantity;NOT NULL;String;description;
+R 101 Laptop_Dell_XPS 5999.99 50 Szybki_i_wydajny_laptop
+R 102 Mysz_Logitech_MX 349.50 200 Ergonomiczna_mysz_bezprzewodowa
+R 103 Klawiatura_Mechaniczna 450.00 120
+R 104 Monitor_4K_LG 1899.00 75

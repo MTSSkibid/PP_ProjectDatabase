@@ -1,0 +1,4 @@
+N Int;id;PRIMARY KEY;String;username;UNIQUE;NOT NULL;String;email;UNIQUE;NOT NULL;Int;age;NOT NULL;
+R 1 jkowalski jan.kowalski@example.com 34
+R 2 anowak anna.nowak@example.com 28
+R 3 pzielinski piotr.zielinski@example.com 45

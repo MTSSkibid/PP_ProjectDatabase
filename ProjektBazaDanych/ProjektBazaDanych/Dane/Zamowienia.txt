@@ -1,0 +1,4 @@
+N Int;order_id;PRIMARY KEY; Int;user_id;NOT NULL;SECONDARY KEY; Float;total_amount;NOT NULL; String;shipping_address;
+R 901 1 6598.14 ul._Magiczna_16/2,_44-202_Rybnik
+R 902 2 450.00 ul._Nowa_1,_00-500_Warszawa
+R 903 1 349.50 ul._Sloneczna_5/3,_30-002_Krakow
